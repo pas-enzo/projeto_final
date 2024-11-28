@@ -1,5 +1,4 @@
 tensorflow
-tensorflow.keras
 numpy
 streamlit
 Pillow
